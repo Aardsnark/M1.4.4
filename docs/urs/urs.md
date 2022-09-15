@@ -6,15 +6,16 @@
 **VERSION : 0.1**
 
 **Authors**  
-XXXX
-YYYY
+Federico Zunino
+Serena Schincaglia
+Simone Schiano
 
 **REVISION HISTORY**
 
 | Version    | Date        | Authors      | Notes        |
 | ----------- | ----------- | ----------- | ----------- |
 | 0.1 | 15/09/2022 | | Nuove funzionalità e profili verranno aggiunti nelle prossime versioni.  |
-| ----------- | ----------- | ----------- | ----------- |
+
 
 # Table of Contents
 
@@ -74,8 +75,6 @@ I docenti di Uni-Skaven potranno creare nuovi esami per i corsi da loro insegnat
 
 Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami disponibili per ogni corso che non hanno già passato, e consultare la propria lista dei voti degli esami passati. 
 
-
-
 <a name="p3"></a>
 
 ## 3. Requirements
@@ -90,18 +89,34 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 <a name="sp3.1"></a>
 ### 3.1 Stakeholders
 
-
+| Gruppo | Ruoli |
+| ----------- | ----------- | 
+|Personale Amministrativo Uni-Skaven| Presidente Uni-Skaven, Direttori Dipartimenti, Responsabile Web, Personale Segreteria |
+| ----------- | ----------- | 
+|Personale Scolastico Uni-Skaven| Docenti, Studenti |
 
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
 
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 |  XXXXX |M|
+| 1.0 |  L'amministrazione crea profili docenti |M|
+| --------------- | ----------- | ---------- | 
+| 2.0 |  L'amministrazione crea profili studenti |M|
+| --------------- | ----------- | ---------- | 
+| 3.0 |  L'amministrazione crea corsi per ogni percorso di laurea |M|
+| --------------- | ----------- | ---------- | 
+| 4.0 |  L'amministrazione assegna i docenti ai corsi |M|
 
 <a name="sp3.3"></a>
 ### 3.3 Non-Functional Requirements 
  
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 | XXXXX |M|
+| 1.0 | Il software deve essere compatibile con Windows, MACOS, e Linux |M|
+| --------------- | ----------- | ---------- | 
+| 2.0 | Il software deve essere accessibile tramite browser |M|
+| --------------- | ----------- | ---------- | 
+| 3.0 | Il software deve essere accessibile tramite app |M|
+| --------------- | ----------- | ---------- | 
+| 4.0 | Il software deve rispettare i dettami del GDPR |M|
