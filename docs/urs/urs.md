@@ -92,7 +92,6 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 | Gruppo | Ruoli |
 | ----------- | ----------- | 
 |Personale Amministrativo Uni-Skaven| Presidente Uni-Skaven, Direttori Dipartimenti, Responsabile Web, Personale Segreteria |
-| ----------- | ----------- | 
 |Personale Scolastico Uni-Skaven| Docenti, Studenti |
 
 <a name="sp3.2"></a>
@@ -100,12 +99,9 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 |  L'amministrazione crea profili docenti |M|
-| --------------- | ----------- | ---------- | 
+| 1.0 |  L'amministrazione crea profili docenti |M| 
 | 2.0 |  L'amministrazione crea profili studenti |M|
-| --------------- | ----------- | ---------- | 
 | 3.0 |  L'amministrazione crea corsi per ogni percorso di laurea |M|
-| --------------- | ----------- | ---------- | 
 | 4.0 |  L'amministrazione assegna i docenti ai corsi |M|
 
 <a name="sp3.3"></a>
@@ -114,9 +110,6 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
 | 1.0 | Il software deve essere compatibile con Windows, MACOS, e Linux |M|
-| --------------- | ----------- | ---------- | 
 | 2.0 | Il software deve essere accessibile tramite browser |M|
-| --------------- | ----------- | ---------- | 
 | 3.0 | Il software deve essere accessibile tramite app |M|
-| --------------- | ----------- | ---------- | 
 | 4.0 | Il software deve rispettare i dettami del GDPR |M|
