@@ -8,7 +8,6 @@
 **Authors**  
 Federico Zunino
 Serena Schincaglia
-Simone Schiano
 
 **REVISION HISTORY**
 
