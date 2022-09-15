@@ -97,7 +97,8 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
 
-| Amministrazione |
+Requisiti Funzionali Amministrazione
+
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
 | 1.1 |  L'amministrazione crea profili docenti |M| 
@@ -107,7 +108,8 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 | 1.3 |  L'amministrazione crea corsi per ogni percorso di laurea |M|
 | 1.4 |  L'amministrazione assegna i docenti ai corsi |M|
 
-| Docenti |
+Requisiti Funzionali Docenti
+
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
 | 2.1 |  Il Docente può consultare la lista dei corsi che insegni |M| 
