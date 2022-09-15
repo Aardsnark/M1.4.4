@@ -97,6 +97,8 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
 
+| Requisiti Funzionali Amministrazione |
+| --------- |
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
 | 1.1 |  L'amministrazione crea profili docenti |M| 
@@ -109,7 +111,7 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
  
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 | Il software deve essere compatibile con Windows, MACOS, e Linux |M|
-| 2.0 | Il software deve essere accessibile tramite browser |M|
-| 3.0 | Il software deve essere accessibile tramite app |M|
-| 4.0 | Il software deve rispettare i dettami del GDPR |M|
+| R1 | Il software deve essere compatibile con Windows, MACOS, e Linux |M|
+| R2 | Il software deve essere accessibile tramite browser |M|
+| R3 | Il software deve essere accessibile tramite app |M|
+| R4 | Il software deve rispettare i dettami del GDPR |M|
