@@ -97,7 +97,7 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
 
-Requisiti Funzionali Amministrazione
+#### 3.2.1 Requisiti Funzionali Amministrazione
 
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
@@ -108,16 +108,22 @@ Requisiti Funzionali Amministrazione
 | 1.3 |  L'amministrazione crea corsi per ogni percorso di laurea |M|
 | 1.4 |  L'amministrazione assegna i docenti ai corsi |M|
 
-Requisiti Funzionali Docenti
+#### 3.2.2 Requisiti Funzionali Docenti
 
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
 | 2.1 |  Il Docente può consultare la lista dei corsi che insegni |M| 
 | 2.2 |  Il Docente può consultare la lista degli studenti iscritti ad ogni corso che insegni |M|
-| 2.3 |  Il Docente può aggiungere un esame alla volta ad un corso che insegni |M|
+| 2.3 |  Il Docente può creare ed aggiungere un esame alla volta ad un corso che insegni |M|
 | 2.3.1 |  Il Docente può rimuovere un esame alla volta da un corso che insegni |M|
 | 2.4 |  Il Docente può verificare le sue informazioni di account - nome, cognome, id etc...|M|
 | 2.4.1 |  Il Docente può verificare le sue informazioni di account - tranne l'ID |M|
+| 2.5 | Il Docente può consulare la lista degli studenti iscritti agli esami del suo corso |M|
+| 2.6 | Il Docente può assegnare una votazione ad ogni studente iscritto ad un suo esame |M|
+
+#### 3.2.3 Requisiti Funzionali Studenti
+
+
 
 <a name="sp3.3"></a>
 ### 3.3 Non-Functional Requirements 
