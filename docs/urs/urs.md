@@ -99,10 +99,10 @@ Gli studenti Uni-Skaven potranno iscriversi e disiscriversi ai corsi, agli esami
 
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 |  L'amministrazione crea profili docenti |M| 
-| 2.0 |  L'amministrazione crea profili studenti |M|
-| 3.0 |  L'amministrazione crea corsi per ogni percorso di laurea |M|
-| 4.0 |  L'amministrazione assegna i docenti ai corsi |M|
+| 1.1 |  L'amministrazione crea profili docenti |M| 
+| 1.1 |  L'amministrazione crea profili studenti |M|
+| 1.2 |  L'amministrazione crea corsi per ogni percorso di laurea |M|
+| 1.3|  L'amministrazione assegna i docenti ai corsi |M|
 
 <a name="sp3.3"></a>
 ### 3.3 Non-Functional Requirements 
